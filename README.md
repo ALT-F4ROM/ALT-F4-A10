@@ -23,3 +23,7 @@ This ROM is heavily debloated and optimized for best user experience,<br/> keep 
 • After Flashing succeed, simply reboot.<br/>
 • Enjoy the ROM! <br/>
 <p align="center">
+
+<p align="center">
+<img src="https://i.imgur.com/4ZVtvJU.png" width="70%">
+<p align="center">

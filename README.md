@@ -71,3 +71,11 @@ And the rest i forgot.<br/>
 <a href="https://t.me/infinityos">News Channel</a> | <a href="https://t.me/infinityos_support">Support Group</a><br/>
 Don't report bugs without any log, screenrecord, screenshot. Those "bug" reports, will be ignored.<br/>
 <p align="center">
+
+<p align="center">
+<img src="https://i.imgur.com/qmnFjqD.png" width="70%">  
+<p align="center">
+  
+<p align="center">
+<img src="https://i.imgur.com/Im7iiza.png" width="40%">  
+<p align="center">

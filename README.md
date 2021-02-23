@@ -69,4 +69,5 @@ And the rest i forgot.<br/>
   
 <p align="center">
 <a href="https://t.me/infinityos">News Channel</a> | <a href="https://t.me/infinityos_support">Support Group</a>
+Don't report bugs without any log, screenrecord, screenshot. Those "bug" reports, will be ignored.
 <p align="center">

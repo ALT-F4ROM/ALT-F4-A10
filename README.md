@@ -27,3 +27,37 @@ This ROM is heavily debloated and optimized for best user experience,<br/> keep 
 <p align="center">
 <img src="https://i.imgur.com/4ZVtvJU.png" width="70%">
 <p align="center">
+  
+<p align="center">
+• Based on A105FDDU5BTK1 firmware.<br/>
+• November Security Patch.<br/>
+• Android 10 One UI 2.0.<br/>
+• Fully Deknoxed.<br/>
+• Fully prepatched RMM.<br/>
+• Most Security nuked.<br/>
+• Encryption nuked.<br/>
+• Smooth and Optimized Base (Best for gaming, cause all unnecessary services are removed).<br/>
+• Debloated (Apps, permissions, framework, unnecessary features removed).<br/>
+• Removed extra hidden product bloatware (Keyboard languages, Handwriting recognition data and hidden vendor apps).<br/>
+• CSC/OMC Tweaks (Call Recording, Real time internet speed, Real time data usage and much more).<br/>
+• Optimized Build.props/floatingfeature.<br/>
+• ROM doesn't have magisk (You can flash any magisk version by your dependencies).<br/>
+• Removed some useless codings that caused performance issues.<br/>
+• Disabled unnecessary services.<br/>
+• Roundy UI.<br/>
+• Enabled High Performance Mode.<br/>
+• Signature Check disabled.<br/>
+• No notch cutout Mod.<br/>
+• Immersive gestures Mod.<br/>
+• Dolby Atmos enabled in games.<br/>
+• Unlocked Dolby Atmos for speakers.<br/>
+• Enabled Zygote Preforking.<br/>
+• Multiwindow Tray.<br/>
+• Side Key Features ( Power button remapper).<br/>
+• Underhood tweaks between battery and performance balance.<br/>
+• 101 Custom Font.<br/>
+• Advanced Screen Capture.<br/>
+• Custom default Wallpapers.<br/>
+• HQM Optimizations.<br/>
+And the rest i forgot.<br/>
+<p align="center">

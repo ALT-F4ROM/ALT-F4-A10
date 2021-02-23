@@ -77,5 +77,5 @@ Don't report bugs without any log, screenrecord, screenshot. Those "bug" reports
 <p align="center">
   
 <p align="center">
-<img src="https://i.imgur.com/Im7iiza.png" width="20%">  
+<a href="www.google.com"><img src ="https://i.imgur.com/Im7iiza.png" /></a>
 <p align="center">

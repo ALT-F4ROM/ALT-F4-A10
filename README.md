@@ -89,5 +89,6 @@ Don't report bugs without any log, screenrecord, screenshot. Those "bug" reports
 @Astrako - For his amazing work, without this guy there is no stable Q in Samsung community.<br/>
 @yash92duster - For his guides and mods he provided with his #TeamExyKings.<br/>
 
+<p align="center">
 Hit "Thanks" button instead of replying it to thread, it will keep the thread clean<br/>and keep me motivated to do more.
 <p align="center">

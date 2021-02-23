@@ -29,7 +29,7 @@ This ROM is heavily debloated and optimized for best user experience,<br/> keep 
 <p align="center">
   
 <p align="center">
-• <a href="https://imgur.com/a/nJwtmaA">Screenshots</a><br/>
+<a href="https://imgur.com/a/nJwtmaA">Screenshots</a><br/>
 • Based on A105FDDU5BTK1 firmware.<br/>
 • November Security Patch.<br/>
 • Android 10 One UI 2.0.<br/>

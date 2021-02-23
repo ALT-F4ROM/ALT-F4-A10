@@ -62,3 +62,11 @@ This ROM is heavily debloated and optimized for best user experience,<br/> keep 
 • HQM Optimizations.<br/>
 And the rest i forgot.<br/>
 <p align="center">
+ 
+<p align="center">
+<img src="https://i.imgur.com/pcnU31Q.png" width="70%">
+<p align="center">
+  
+<p align="center">
+<a href="https://t.me/infinityos">News Channel</a> | <a href="https://t.me/infinityos_support">Support Group</a>
+<p align="center">
